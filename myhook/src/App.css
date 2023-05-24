@@ -1,0 +1,22 @@
+Form{
+  width: 29rem;
+  border: 2px solid blue;
+  border-radius: 3px;
+
+  }
+  Table{
+    border: 2px solid;
+    border-radius: 3px;
+
+
+  }
+.contour{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+Button{
+  position: relative;
+  left: 36%;
+}
